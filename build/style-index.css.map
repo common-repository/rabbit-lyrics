@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///style.scss"],"names":[],"mappings":"AAAA;;;EAGE;AACF;EACE,qBAAqB;AACvB,C","file":"style-index.css","sourcesContent":["/**\n * The following styles get applied both on the front of your site\n * and in the editor.\n */\n.rabbit-lyrics {\n  scrollbar-width: thin;\n}"],"sourceRoot":""}
